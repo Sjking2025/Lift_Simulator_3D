@@ -2,7 +2,6 @@
 
 > **Experience the "Brain" of an Elevator in High-Fidelity 3D.**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-Fiber-black)
 
