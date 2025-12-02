@@ -5,6 +5,11 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-Fiber-black)
 
+
+## 🌐 Live Demo
+Experience the simulation directly in your browser before cloning:
+👉 **[Live Preview (Vercel)](https://liftsimulator3dreal.vercel.app/)**
+
 ## 💡 The Idea
 Elevators are the unsung heroes of modern architecture, transporting millions of people daily with invisible efficiency. But how do they actually decide where to go?
 
